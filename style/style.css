@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-.serach-bar input {
+.search-bar input {
   width: 75%;
 }
 
@@ -13,6 +13,7 @@
 
 .video-detail .details {
   margin-top: 10px;
+  margin-bottom: 10px;
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -20,6 +21,7 @@
 
 .list-group-item {
   cursor: pointer;
+  min-width: 288px;
 }
 
 .list-group-item:hover {
